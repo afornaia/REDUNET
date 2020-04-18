@@ -1,0 +1,5 @@
+Project: https://github.com/apache/commons-jxpath
+Commit: 2b7a354711f0f93a2edbb1c741520709df04f587
+Commit Date: Aug 15, 2019
+Commit Tree: https://github.com/apache/commons-jxpath/tree/2b7a354711f0f93a2edbb1c741520709df04f587 
+Commit Download: https://github.com/apache/commons-jxpath/archive/2b7a354711f0f93a2edbb1c741520709df04f587.zip

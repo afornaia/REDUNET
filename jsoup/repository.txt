@@ -1,0 +1,5 @@
+Project: https://github.com/jhy/jsoup
+Commit: 89580cc3d25d0d89ac1f46b349e5cd315883dc79
+Commit Date:  Mar 7, 2020
+Commit Tree: https://github.com/jhy/jsoup/tree/89580cc3d25d0d89ac1f46b349e5cd315883dc79
+Commit Download: https://github.com/jhy/jsoup/archive/89580cc3d25d0d89ac1f46b349e5cd315883dc79.zip

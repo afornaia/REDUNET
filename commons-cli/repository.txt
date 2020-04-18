@@ -1,0 +1,5 @@
+Project: https://github.com/apache/commons-cli
+Commit: c12260c05ebcd27558265395df79b8b049534fbd
+Commit Date: Dec 18, 2019
+Commit Tree: https://github.com/apache/commons-cli/tree/c12260c05ebcd27558265395df79b8b049534fbd
+Commit Download: https://github.com/apache/commons-cli/archive/c12260c05ebcd27558265395df79b8b049534fbd.zip

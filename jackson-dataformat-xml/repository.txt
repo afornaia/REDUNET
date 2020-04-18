@@ -1,0 +1,5 @@
+Project: https://github.com/FasterXML/jackson-dataformat-xml
+Commit: dd2aa8e1f4b1461192013b49717d7095250eb801
+Commit Date:  Mar 5, 2020
+Commit Tree: https://github.com/FasterXML/jackson-dataformat-xml/tree/dd2aa8e1f4b1461192013b49717d7095250eb801 
+Commit Download: https://github.com/FasterXML/jackson-dataformat-xml/archive/dd2aa8e1f4b1461192013b49717d7095250eb801.zip

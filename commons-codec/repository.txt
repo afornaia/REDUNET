@@ -1,0 +1,5 @@
+Project: https://github.com/apache/commons-codec
+Commit: bf561f5153183bef3946fdc4c9e68aae3dda260f
+Commit Date: Mar 17, 2020
+Commit Tree: https://github.com/apache/commons-codec/tree/bf561f5153183bef3946fdc4c9e68aae3dda260f 
+Commit Download: https://github.com/apache/commons-codec/archive/bf561f5153183bef3946fdc4c9e68aae3dda260f.zip

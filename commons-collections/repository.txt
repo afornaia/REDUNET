@@ -1,0 +1,5 @@
+Project: https://github.com/apache/commons-collections
+Commit: 2cbac58f7e3b51a4f2f3a6672bb4380e18469c50
+Commit Date: Mar 17, 2020
+Commit Tree: https://github.com/apache/commons-collections/tree/2cbac58f7e3b51a4f2f3a6672bb4380e18469c50 
+Commit Download: https://github.com/apache/commons-collections/archive/2cbac58f7e3b51a4f2f3a6672bb4380e18469c50.zip

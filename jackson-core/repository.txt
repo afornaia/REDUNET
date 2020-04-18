@@ -1,0 +1,5 @@
+Project: https://github.com/FasterXML/jackson-core
+Commit: 954745c2aeee59efd92b390dbbe902567fc501c8
+Commit Date:  Mar 8, 2020
+Commit Tree: https://github.com/FasterXML/jackson-core/tree/954745c2aeee59efd92b390dbbe902567fc501c8 
+Commit Download: https://github.com/FasterXML/jackson-core/archive/954745c2aeee59efd92b390dbbe902567fc501c8.zip

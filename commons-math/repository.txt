@@ -1,0 +1,5 @@
+Project: https://github.com/apache/commons-math
+Commit: c13179ef737b8771cc12d2416a230e2b6cafbb05
+Commit Date:  Mar 15, 2020
+Commit Tree: https://github.com/apache/commons-math/tree/c13179ef737b8771cc12d2416a230e2b6cafbb05 
+Commit Download: https://github.com/apache/commons-math/archive/c13179ef737b8771cc12d2416a230e2b6cafbb05.zip
