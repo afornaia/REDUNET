@@ -10,7 +10,7 @@ Source code is available on request.
 The dataset is composed by 10 different projects. For each of these, the following elements are provided:  
 - *randoop-tests.zip*: the junit tests generated with the Randoop tool  
 - *covered_methods.txt*: the list of methods covered by the given tests. It is used to shorten the node labels both in the graph and traces)  
-- *cfg.txt*: the control flow graph of the given project (using intra-procedural dependences)  
+- *cfg.txt*: the control flow graph for covered methods (using intra-procedural dependences)  
 - *traces.txt*: the file containing the execution traces for all the given tests (covered lines and test execution time in ms)  
 - *repository.txt*: file containing the references to the project repository (on github) and the exact version (commit) considered  
 
