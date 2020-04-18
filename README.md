@@ -6,7 +6,7 @@ Department of Mathematics and Computer Science, University of Catania
 This repository contains the dataset created and used for the REDUNET scientific paper.  
 Source code is available on request.
 
-## Dataset structure
+## Dataset
 The dataset is composed by 10 different projects. For each of these, the following elements are provided:  
 - *randoop-tests.zip*: the junit tests generated with the Randoop tool  
 - *covered_methods.txt*: the list of methods covered by the given test. It is used to shorten the node labels both in graph and traces)  
