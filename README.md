@@ -2,6 +2,7 @@
 Authors: Misael Mongiovì, Andrea Fornaia and Emiliano Tramontana  
 Department of Mathematics and Computer Science, University of Catania
 
+## Description
 This repository contains the dataset created and used for the REDUNET scientific paper.  
 Source code is available on request.
 
